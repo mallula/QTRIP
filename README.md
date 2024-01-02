@@ -9,14 +9,7 @@
   - [Test Case 2: City Search](#test-case-2-city-search)
   - [Test Case 3: Adventure Booking and Cancellation](#test-case-3-adventure-booking-and-cancellation)
   - [Test Case 4: Booking History](#test-case-4-booking-history)
-- [API Test Cases](#api-test-cases)
-  - [Test Case 1: User Registration and Login](#test-case-1-user-registration-and-login-1)
-  - [Test Case 2: City Search API](#test-case-2-city-search-api)
-  - [Test Case 3: Reservation](#test-case-3-reservation)
-  - [Test Case 4: New and Duplicate Registrations](#test-case-4-new-and-duplicate-registrations)
-- [Integration with TestNG Framework](#integration-with-testng-framework)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Background
 This project is designed for automated testing of QTrip, covering both UI and API test cases. It uses the TestNG framework for UI tests and RestAssured for API tests.
@@ -33,9 +26,7 @@ Before running the tests, make sure you have the following prerequisites:
 Follow these steps to set up and install the automation suite:
 1. Clone the repository to your local machine.
 2. Install WebDriver and configure the path.
-3. Install Postman for manual API test execution.
-4. Install RestAssured library and TestNG framework in your project.
-5. Ensure the Java SDK is installed on your machine.
+3. Ensure the Java SDK is installed on your machine.
 
 ## UI Test Cases
 
