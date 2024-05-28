@@ -65,5 +65,5 @@ Adventure booking and cancellation should occur without errors.
 1. Navigate to the booking history page.
 2. Verify the display of past reservations.
 
-**Expected Result:**
+Expected Result:
 Past reservations should be displayed correctly.
